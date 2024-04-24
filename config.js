@@ -8,9 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['233558111386', 'Law shambles', true],
-  ['233551490369', 'Ben', true], 
 
-  
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -52,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Law 💔'
+global.botname = 'Law '
 global.premium = 'true'
-global.packname = 'Law 💔' 
+global.packname = 'Law ' 
 global.author = '🔪' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
