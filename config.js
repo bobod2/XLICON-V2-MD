@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 global.owner = [
-  ['233558111386', 'law👑shambles', true], 
+  ['233558111386', 'lawshambles', true], 
   ['639605125422', 'Ms psycho', true],
 ] //Number of owners
 
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'Law votex'
 global.premium = 'true'
-global.packname = 'Law shambles💦' 
+global.packname = 'Law shambles' 
 global.author = 'baby' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
